@@ -1,0 +1,10 @@
+{
+  "name": "Remix KAORI",
+  "description": "お風呂の写真を撮るとファッションガチャが引ける！連続入浴でガチャランクが上がり高レア衣装が出現する人間アバター着せ替え育成アプリ",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
